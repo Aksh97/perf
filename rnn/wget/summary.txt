@@ -1,2 +1,9 @@
 Run Summary: 
-Date/Time of this run: 08/18/2017 03:04:19Threahold used: 6.99199952117e-05Total number of vertices in training dataset: 600921Total number of vertices in validation dataset: 4711Total number of vertices in testing dataset: 4134Total number of vertices detected in testing dataset: 1Total number of misclassified vertices (i.e., false positives): 8False alarm rate: 0.00169815325833
+Date/Time of this run: 08/19/2017 23:31:17
+Threahold used: 4.3222475995e-05
+Total number of vertices in training dataset: 600921
+Total number of vertices in validation dataset: 4711
+Total number of vertices in testing dataset: 4134
+Total number of vertices detected in testing dataset: 1
+Total number of misclassified vertices (i.e., false positives): 8
+False alarm rate: 0.00169815325833
