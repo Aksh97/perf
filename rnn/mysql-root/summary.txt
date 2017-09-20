@@ -1,0 +1,66 @@
+Run Summary: 
+Vertex Type:task
+Date/Time of this run: 09/20/2017 20:15:12
+Threahold used: 146.8472127
+Total number of vertices in training dataset: 400
+Total number of vertices in validation dataset: 40
+Total number of vertices in testing dataset: 40
+Total number of vertices detected in testing dataset: 0
+Total number of misclassified vertices (i.e., false positives): 0
+Detection rate: 0.0
+False alarm rate: 0.0
+Run Summary: 
+Vertex Type:file_name
+Date/Time of this run: 09/20/2017 20:15:12
+Threahold used: 300.0
+Total number of vertices in training dataset: 900
+Total number of vertices in validation dataset: 90
+Total number of vertices in testing dataset: 90
+Total number of vertices detected in testing dataset: 0
+Total number of misclassified vertices (i.e., false positives): 0
+Detection rate: 0.0
+False alarm rate: 0.0
+Run Summary: 
+Vertex Type:envp
+Date/Time of this run: 09/20/2017 20:15:13
+Threahold used: 0.00120834621518
+Total number of vertices in training dataset: 800
+Total number of vertices in validation dataset: 80
+Total number of vertices in testing dataset: 80
+Total number of vertices detected in testing dataset: 0
+Total number of misclassified vertices (i.e., false positives): 0
+Detection rate: 0.0
+False alarm rate: 0.0
+Run Summary: 
+Vertex Type:argv
+Date/Time of this run: 09/20/2017 20:15:14
+Threahold used: 76.415364122
+Total number of vertices in training dataset: 300
+Total number of vertices in validation dataset: 30
+Total number of vertices in testing dataset: 30
+Total number of vertices detected in testing dataset: 0
+Total number of misclassified vertices (i.e., false positives): 0
+Detection rate: 0.0
+False alarm rate: 0.0
+Run Summary: 
+Vertex Type:file
+Date/Time of this run: 09/20/2017 20:15:15
+Threahold used: 4.81230903524
+Total number of vertices in training dataset: 900
+Total number of vertices in validation dataset: 90
+Total number of vertices in testing dataset: 90
+Total number of vertices detected in testing dataset: 0
+Total number of misclassified vertices (i.e., false positives): 0
+Detection rate: 0.0
+False alarm rate: 0.0
+Run Summary: 
+Vertex Type:mmaped_file
+Date/Time of this run: 09/20/2017 20:15:16
+Threahold used: 189.804792094
+Total number of vertices in training dataset: 3600
+Total number of vertices in validation dataset: 360
+Total number of vertices in testing dataset: 360
+Total number of vertices detected in testing dataset: 0
+Total number of misclassified vertices (i.e., false positives): 0
+Detection rate: 0.0
+False alarm rate: 0.0
